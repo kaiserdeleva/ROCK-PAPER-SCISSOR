@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+.rsp {
+    text-align: center;
+    display: inline-block;
+    padding: 5%;
+}
+p {
+    font-size: 3rem;
+    text-shadow: 2px 0px #295988;
+}
+.container {
+    width: 100%;  
+    padding: 2%;
+    text-align: center;
+}
+h1{
+    text-shadow: 5px 2px #295988;
+    font-size: 5rem !important;
+}
+.img1 {
+    width: 19rem;
+}
+.img2 {
+    width: 19rem;
+}
